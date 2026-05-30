@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productsetch",
+        "uuid": 4198373,
+        "checksum": "r3d4pi"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
